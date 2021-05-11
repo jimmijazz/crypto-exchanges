@@ -8,7 +8,7 @@ const digitalSurge = {
     "expires_in": 604800,
     "token_type": "Bearer",
     "scope": "read write",
-    "refresh_token": "pkTqWH58OfMUbdXdqbogO41pHdzPdE"
+    "refresh_token": ""
 };
 
 function getURL(url, headers, callback) {
